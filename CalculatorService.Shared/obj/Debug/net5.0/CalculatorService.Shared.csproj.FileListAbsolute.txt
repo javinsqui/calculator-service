@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\CalculatorService\CalculatorService.Shared\bin\Debug\net5.0\CalculatorService.Shared.deps.json
+C:\Users\Hp\source\repos\CalculatorService\CalculatorService.Shared\bin\Debug\net5.0\CalculatorService.Shared.dll
+C:\Users\Hp\source\repos\CalculatorService\CalculatorService.Shared\bin\Debug\net5.0\ref\CalculatorService.Shared.dll
+C:\Users\Hp\source\repos\CalculatorService\CalculatorService.Shared\bin\Debug\net5.0\CalculatorService.Shared.pdb
+C:\Users\Hp\source\repos\CalculatorService\CalculatorService.Shared\obj\Debug\net5.0\CalculatorService.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\CalculatorService\CalculatorService.Shared\obj\Debug\net5.0\CalculatorService.Shared.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\CalculatorService\CalculatorService.Shared\obj\Debug\net5.0\CalculatorService.Shared.AssemblyInfo.cs
+C:\Users\Hp\source\repos\CalculatorService\CalculatorService.Shared\obj\Debug\net5.0\CalculatorService.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CalculatorService\CalculatorService.Shared\obj\Debug\net5.0\CalculatorService.Shared.dll
+C:\Users\Hp\source\repos\CalculatorService\CalculatorService.Shared\obj\Debug\net5.0\ref\CalculatorService.Shared.dll
+C:\Users\Hp\source\repos\CalculatorService\CalculatorService.Shared\obj\Debug\net5.0\CalculatorService.Shared.pdb

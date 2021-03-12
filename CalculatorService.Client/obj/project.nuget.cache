@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4cLHbKRDZOxs2mXN5BHNPiUoKTKSZbEdxTGdEx/fJp2U4J6Z4xGIrOJF5kZXsRXbTu0H9FYvtnX12yu7kk/ogg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\CalculatorService\\CalculatorService.Client\\CalculatorService.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
